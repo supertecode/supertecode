@@ -82,18 +82,12 @@ Sou estudante de Ciência da Computação estando atualmente no sétimo período
   </a>
 </p>
 
-
-<!--
-**supertecode/supertecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Outras formas de contato</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/murilo-emanoel-sudario-rodrigues-b80a052a6/" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clara-ferreira-batista" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/murilo.emanoel/" target="blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herpetotheres.cachinnans" height="30" width="40" />
+  </a>
+</p>
