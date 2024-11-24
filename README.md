@@ -2,11 +2,11 @@
 <h3 align="left">Conheça-me</h3>
 
 <p align="left">
-Sou estudante de Ciência da Computação estando atualmente no sétimo período do curso. Minhas grandes paixões dentro do curso foram a análise de dados e os algoritmos de aprendizado de máquina. A matemática por trás da Inteligência Artificial me fascina e o pensamento analítico por trás da Ciência de Dados me inspira. Também me interesso e pratico desenvolvimento back-end. Prezo muito pela boa comunicação e um estilo organizacional de trabalho, os quais facilitam a vida de todos.  
+Sou estudante de Ciência da Computação estando atualmente no oitavo período do curso. Minhas grandes paixões dentro do curso foram a ciência de dados e o desenvolvimento front-end e back-end. A matemática por trás da Inteligência Artificial me fascina e o pensamento analítico por trás da Ciência de Dados me inspira. Prezo muito pela boa comunicação e um estilo organizacional de trabalho, os quais facilitam a vida de todos.  
 </p>
 
 <p align="left">
-  🔭 Atualmente estou aprendendo <strong> Python, Java, Flutter, Microsoft Power BI</strong>
+  🔭 Atualmente estou aprendendo <strong> Python, Java, Flutter, Flask, React e MongoDB</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@ Sou estudante de Ciência da Computação estando atualmente no sétimo período
 </p>
 
 <p align="left">
-  💬 Pergunte-me sobre <strong>Análise/Ciências de Dados e Machine Learning</strong>
+  💬 Pergunte-me sobre <strong>Ciência de Dados e Desenvolvimento Back-end e/ou Front-end</strong>
 </p>
 
 <p align="left">
