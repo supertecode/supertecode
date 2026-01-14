@@ -71,7 +71,7 @@ Sou bacharel em Ciência da Computação. Minhas grandes paixões dentro do curs
 
 <h3 align="left">Outras formas de contato</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/murilo-emanoel-sudario-rodrigues-b80a052a6/" target="blank">
+  <a href="https://www.linkedin.com/in/murilo-emanoel/" target="blank">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clara-ferreira-batista" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/murilo.emanoel/" target="blank">
