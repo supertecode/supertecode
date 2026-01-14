@@ -2,15 +2,15 @@
 <h3 align="left">Conheça-me</h3>
 
 <p align="left">
-Sou estudante de Ciência da Computação estando atualmente no oitavo período do curso. Minhas grandes paixões dentro do curso foram a ciência de dados e o desenvolvimento front-end e back-end. A matemática por trás da Inteligência Artificial me fascina e o pensamento analítico por trás da Ciência de Dados me inspira. Prezo muito pela boa comunicação e um estilo organizacional de trabalho, os quais facilitam a vida de todos.  
+Sou bacharel em Ciência da Computação. Minhas grandes paixões dentro do curso foram a ciência de dados e o desenvolvimento front-end e back-end. A matemática por trás da Inteligência Artificial me fascina e o pensamento analítico por trás da Ciência de Dados me inspira. Prezo muito pela boa comunicação e um estilo organizacional de trabalho. Sou acima de tudo um profissional calmo.  
 </p>
 
 <p align="left">
-  🔭 Atualmente estou aprendendo <strong> Python, Java, Flutter, Flask, React e MongoDB</strong>
+  🔭 Atualmente estou aprendendo <strong> Python, Django, Flask, React, TypeScript e PostgreSQL. Sou estagiário de Desenvolvimento Full-Stack na Caminho Mínimo Desenvolimento de Sistemas</strong>
 </p>
 
 <p align="left">
-  :chart_with_upwards_trend: Estou disposto a colaborar em <strong>Projetos utilizando Machine Learning, Análise/Ciência de Dados e/ou Desenvolvimento Back-End </strong>
+  :chart_with_upwards_trend: Estou disposto a colaborar em <strong>Projetos utilizando Machine Learning, Análise/Ciência de Dados e/ou Desenvolvimento Full-Stack </strong>
 </p>
 
 <p align="left">
