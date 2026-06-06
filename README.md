@@ -6,7 +6,7 @@ Sou bacharel em Ciência da Computação. Minhas grandes paixões dentro do curs
 </p>
 
 <p align="left">
-  🔭 Atualmente estou aprendendo <strong> Python, Django, Flask, React, TypeScript e PostgreSQL. Sou estagiário de Desenvolvimento Full-Stack na Caminho Mínimo Desenvolvimento de Sistemas.</strong>
+  🔭 Atualmente estou aprendendo <strong> Python, Django, Flask, React, TypeScript e PostgreSQL. Sou Desenvolvedor Back-End Junior na <a href="https://www.gestran.com.br" target="_blank">Gestran</a>.</strong>
 </p>
 
 <p align="left">
